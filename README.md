@@ -8,9 +8,9 @@ Looking for opportunities in **Database Administration, Data Engineering, and Ap
 📧 chadha.aouina@gmail.com  
 
 
-## 🤖 Machine Learning Projects
+##  Machine Learning Projects
 - [Predicting Popularity of Articles (PDF)](./ml-projects/predicting-articles/Predicting%20Popularity%20of%20Articles.pdf)
-- [Jupyter Notebook](./ml-projects/predicting-articles/Predicting Popularity of Articles )  
+- [Jupyter Notebook](./ml-projects/predicting-articles/Predicting%20Popularity%20of%20Articles.ipynb)  
 
 - [Automotive Parts Recommendation System (PDF)](./ml-projects/recommender-system/rec.pdf)  
   [Jupyter Notebook](./ml-projects/recommender-system/rec.ipynb)  
@@ -20,7 +20,7 @@ Looking for opportunities in **Database Administration, Data Engineering, and Ap
 
 ---
 
-## 👀 Computer Vision Projects
+## Computer Vision Projects
 - [Snooker Table and Ball Reconstruction (PDF)](./vision-projects/snooker/snooker.pdf)  
   [Jupyter Notebook](./vision-projects/snooker/snooker.ipynb)  
 
