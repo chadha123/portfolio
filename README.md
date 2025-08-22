@@ -9,7 +9,8 @@ Looking for opportunities in **Database Administration, Data Engineering, and Ap
 
 
 ##  Machine Learning Projects
-- [Predicting Popularity of Articles (PDF)](./ml-projects/predicting-articles/Predicting%20Popularity%20of%20Articles.pdf)  
+- [Predicting Popularity of Articles (PDF)](./ml-projects/predicting-articles/Predicting%20Popularity%20of%20Articles.pdf)
+- [Jupyter Notebook](./ml-projects/recommender-system/rec.ipynb)  
   Data analytics & prediction models for article popularity.  
 
 - [Automotive Parts Recommendation System (PDF)](./ml-projects/recommender-system/rec.pdf)  
