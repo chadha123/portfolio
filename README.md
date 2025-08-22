@@ -9,20 +9,17 @@ Looking for opportunities in **Database Administration, Data Engineering, and Ap
 
 
 ##  Machine Learning Projects
-- [Predicting Popularity of Articles (PDF)](./ml-projects/predicting-articles/Predicting%20Popularity%20of%20Articles.pdf)
-- [Jupyter Notebook](./ml-projects/predicting-articles/Predicting%20Popularity%20of%20Articles.ipynb)  
+- [Predicting Popularity of Articles](./ml-projects/predicting-articles)
 
-- [Automotive Parts Recommendation System (PDF)](./ml-projects/recommender-system/rec.pdf)  
-  [Jupyter Notebook](./ml-projects/recommender-system/rec.ipynb)  
+- [Automotive Parts Recommendation System ](./ml-projects/recommender-system)  
 
-- [Conversational Model with Transformers (PDF)](./ml-projects/conversational-transformer/Conversational%20model%20with%20Transformers.pdf)  
-  [Python Script](./ml-projects/conversational-transformer/Conversational%20model%20with%20Transformers.py)  
+- [Conversational Model with Transformers ](./ml-projects/conversational-transformer)  
 
 ---
 
 ## Computer Vision Projects
-- [Snooker Table and Ball Reconstruction (PDF)](./vision-projects/snooker/snooker.pdf)  
-  [Jupyter Notebook](./vision-projects/snooker/snooker.ipynb)  
+- [Snooker Table and Ball Reconstruction ](computer-vision/snooker)  
+
 
 
 ---
