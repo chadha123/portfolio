@@ -1,8 +1,8 @@
 # Chadha Aouina – Portfolio
 
-Master’s student in Artificial Intelligence (USI Lugano) with a BSc in Applied Mathematics (Paris Dauphine).  
-Experience in **NLP, AI applications, LLMs, FastAPI, Power BI, ETL (SSIS), SSAS**, as well as Machine Learning, NLP, and Computer Vision.  
-Looking for opportunities in **Database Administration, Data Engineering, and Applied AI**.
+Master’s student in Artificial Intelligence (USI Lugano) with a background in Applied Mathematics (Paris Dauphine).
+Interested in **NLP, AI applications, LLMs, and human-centered AI systems that bridge the gap between technology and users.**
+Experience with **Python, FastAPI, Machine Learning, NLP, Computer Vision, SQL, and AI-powered applications.**
 
 📍 Lugano / open to relocation in Switzerland  
 📧 chadha.aouina@gmail.com  
